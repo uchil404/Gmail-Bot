@@ -19,6 +19,12 @@ settings:
 
 - APIKEY SMSACTIVE DAPATKAN DISINI https://sms-activate.org/
 
+# RUN
+
+- git clone https://github.com/tahaluindo/Gmail-Bot
+- cd Gmail-Bot
+- python main.py
+
 # NOTES:
 
 - Semakin baik proxy Anda, semakin banyak efisiensi yang Anda dapatkan. ✅ 
