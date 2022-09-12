@@ -4,6 +4,8 @@
 
 # SETUP:
 
+- Setup Config Disini => https://github.com/tahaluindo/Gmail-Bot/blob/main/config/config.yaml
+
 ````YML
 settings:
   browser_thread: 5 #Enter Browser Thread
