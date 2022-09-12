@@ -7,7 +7,7 @@ class Main:
         # INIT BOOTER
         self.booter = Booter()
 
-        # CONFIG
+        # CONFIG GAK TAU BACA README.MDNYA
         self.booter.set('Reading config.')
         self.config = Reader().read()
         if not self.config[0]:
@@ -16,14 +16,14 @@ class Main:
             self.config = self.config[1]
 
         '''
-        # LICENSE CHECKER
+        # LICENSE CHECKER THE FILE
         self.booter.set('Checking license.')
         self.license = License(self.config).check()
         if not self.license[0]:
             self.booter.set(self.license[1], 'ERROR')
         '''
 
-        # PROXY CHECKER
+        # PROXY CHECKER THE FILE PROXY
         self.proxy_amount = [0]
         self.proxies = None
         if not self.config['use_proxy']:
@@ -42,7 +42,7 @@ class Main:
                 self.proxies = []
                 self.proxies = self.temp_proxies.copy()
 
-        # PREVIEW
+        # PREVIEW THE PROJECT
         Preview(config=self.config, proxies_amount=self.proxy_amount)
 
     def main(self):
