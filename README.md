@@ -25,6 +25,7 @@ settings:
 
 - git clone https://github.com/tahaluindo/Gmail-Bot
 - cd Gmail-Bot
+- pip3 install pyyaml
 - python main.py
 - buka chromedriver.exe di Windows Mu
 
