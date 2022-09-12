@@ -17,6 +17,8 @@ settings:
 
 # NOTE:
 
+- Download Ini => https://github.com/tahaluindo/Gmail-Bot/blob/main/chromedriver.exe
+
 - APIKEY SMSACTIVE DAPATKAN DISINI https://sms-activate.org/
 
 # RUN
@@ -24,8 +26,9 @@ settings:
 - git clone https://github.com/tahaluindo/Gmail-Bot
 - cd Gmail-Bot
 - python main.py
+- buka chromedriver.exe di Windows Mu
 
-# NOTES:
+# NOTE TO USE:
 
 - Semakin baik proxy Anda, semakin banyak efisiensi yang Anda dapatkan. ✅ 
 - Bagian algoritma bekerja dengan lancar. ✅
