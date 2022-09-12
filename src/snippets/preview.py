@@ -26,9 +26,9 @@ class Preview:
 / (_ / _//    / /___/ // _/   \  / 
 \___/___/_/|_/____/___/_/     /_/  
 
-[{self.colors.MAGENTA}#{self.colors.RESET}] discord.gg/genlify
+[{self.colors.MAGENTA}#{self.colors.RESET}] Mass Creator Akun GMAIL With OTP
 
-[{self.colors.MAGENTA}#{self.colors.RESET}] Made by Genlify
+[{self.colors.MAGENTA}#{self.colors.RESET}] Made by Genlify Translate by Tahaluindo
                                    
 [{self.colors.MAGENTA}#{self.colors.RESET}] SETTINGS:
 [{self.colors.MAGENTA}>{self.colors.RESET}] Threads: {self.config['browser_thread']}
