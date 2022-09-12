@@ -22,7 +22,7 @@ class Booter:
     def __init__(self):
         self.colors = Colors()
         clear()
-        os.system('title Genlify - Gmail Account Creator')
+        os.system('title MASS Gmail Account Creator')
 
     def set(self, arg, type=None):
         now = datetime.datetime.now()
