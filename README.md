@@ -1,5 +1,7 @@
 # GMAIL ACCOUNT CREATOR 2022
 
+<a href="https://github.com/tahaluindo/"><img src="https://i.ibb.co/s35Lr63/images-1.png" alt="images-1" border="0"></a>
+
 # SETUP:
 
 ````YML
@@ -7,19 +9,16 @@ settings:
   browser_thread: 5 #Enter Browser Thread
   use_proxy: False # True / False
   proxy_protocol: "HTTP" # HTTP / SOCKS5
-  account_count: 10 # ACCOUNT AMOUNT DO YOU WANT TO GENERATE
+  account_count: 10 # JUMLAH AKUN YANG INGIN ANDA HASILKAN
   api_key: "" # SMSACTIVE API KEY
 ````
 
+# NOTE:
+
+- APIKEY SMSACTIVE DAPATKAN DISINI https://sms-activate.org/
+
 # NOTES:
 
-- The better your proxies, the more efficiency you get. ✅ 
-- The algorithm part works smoothly. ✅
-- There is no problem on the software side. ✅ 
-- Write me on Telegram / Discord write if you face any problem
-
-# Show Your Support
-
-* Donate To Me VIA USDT TetherUS(erc20): 0xe47148ffa60a38858391b5df32868e1733d4baf2
-
-
+- Semakin baik proxy Anda, semakin banyak efisiensi yang Anda dapatkan. ✅ 
+- Bagian algoritma bekerja dengan lancar. ✅
+- Tidak ada masalah di sisi perangkat lunak. ✅ 
